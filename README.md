@@ -112,11 +112,11 @@ Estou sempre buscando evoluir tecnicamente por meio de projetos, estudos e exper
 <p align="left">
   <img
     height="170"
-    src="https://github-readme-stats-araujo8.vercel.app/api?username=Araujosp&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-araujo8.vercel.app/api?username=Araujosp&show_icons=true&theme=tokyonight&cache_seconds=1800"
   />
   <img
     height="170"
-    src="https://github-readme-stats-araujo8.vercel.app/api/top-langs/?username=Araujosp&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-araujo8.vercel.app/api/top-langs/?username=Araujosp&layout=compact&theme=tokyonight&cache_seconds=1800"
   />
 </p>
    
