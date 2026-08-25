@@ -16,8 +16,8 @@ Estou sempre buscando evoluir tecnicamente por meio de projetos, estudos e exper
 
 <p align="left">
 
-  <a href="https://github.com/araujosp">
-    <img src="https://img.shields.io/badge/GitHub-araujosp-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Araujosp">
+    <img src="https://img.shields.io/badge/GitHub-Araujosp-181717?style=for-the-badge&logo=github" />
   </a>
 
 </p>
