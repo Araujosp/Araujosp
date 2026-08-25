@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Gabriel Araujo
 
-💻 **Desenvolvedor de Software | Java, Spring Boot & Desenvolvimento Web**
+💻 **Desenvolvedor de Software | Php, Java & Desenvolvimento Web**
 
 🇧🇷 Brasil
 
