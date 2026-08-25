@@ -110,15 +110,16 @@ Estou sempre buscando evoluir tecnicamente por meio de projetos, estudos e exper
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=araujosp&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujosp&layout=compact&theme=tokyonight" />
-
+  <img
+    height="170"
+    src="https://github-readme-stats-araujo8.vercel.app/api?username=Araujosp&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-araujo8.vercel.app/api/top-langs/?username=Araujosp&layout=compact&theme=tokyonight"
+  />
 </p>
-
----
-
+   
 ## 🚀 Atualmente estudando
 
 * ☕ **Java & Spring Boot**
