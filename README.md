@@ -1,4 +1,43 @@
-# Olá 👋, eu sou Gabriel Araujo
+<div align="center">
+
+<!-- ============ BANNER PRINCIPAL — BOOT SEQUENCE ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=Initializing%20Developer%20Core...&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%3E+INITIALIZING+PROFILE...+%5BOK%5D;%3E+LOADING+SEU_NOME.exe;%3E+FULL-STACK+DEVELOPER+%7C+AI+ENTHUSIAST;%3E+STATUS%3A+READY+FOR+NEW+MISSIONS" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/VERSION-2.0.26-8a2be2?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CORE-ACTIVE-ff00c8?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br/>
+
+<!-- ============ SOBRE MIM ============ -->
+##  SOBRE MIM
+
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" />
+
+```yaml
+identidade:
+  nome: "Gabriel Araujo"
+  alias: "@araujoo.sp"
+  localizacao: "Brasil 🇧🇷"
+  ocupacao: "Tec. Desenvolvimento de Sistemas /Estagiando"
+
+sistema:
+  linguagens_favoritas: ["JavaScript", "Php", "Java"]
+  interesses: ["Inteligência Artificial", "Automação", "Engenheiro de Software]
+diretiva_atual:
+  missao: "Fazer sempre o melhor que no que faço"
+  aprendendo: ["Next.js", "Java Script", "Node.js", "Docker"]
+```
+
 
 💻 **Desenvolvedor de Software | Php, Java & Desenvolvimento Web**
 
