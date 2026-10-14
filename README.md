@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ============ BANNER PRINCIPAL — BOOT SEQUENCE ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=Initializing%20Developer%20Core...&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
@@ -39,7 +37,7 @@ diretiva_atual:
 ```
 
 
-💻 **Desenvolvedor de Software | Php, Java & Desenvolvimento Web**
+💻 **Desenvolvedor de Software | Node.js, Java & Desenvolvimento Web**
 
 🇧🇷 Brasil
 
@@ -51,27 +49,16 @@ Estou sempre buscando evoluir tecnicamente por meio de projetos, estudos e exper
 
 ---
 
-## 🌐 Onde me encontrar
-
-<p align="left">
-
-  <a href="https://github.com/Araujosp">
-    <img src="https://img.shields.io/badge/GitHub-Araujosp-181717?style=for-the-badge&logo=github" />
-  </a>
-
-</p>
 
 ---
 
 ## 🧠 O que faço
 
-* ☕ Desenvolvimento backend com **Java & Spring Boot**
+* ☕ Desenvolvimento backend com **Node.js  & Express ou Java & Spring Boot**
 * 🔌 Desenvolvimento e consumo de **APIs REST**
 * 🌐 Desenvolvimento web com **React, Next.js & TypeScript**
-* 🐘 Desenvolvimento de sistemas com **PHP, HTML, CSS & JavaScript**
 * 📱 Desenvolvimento mobile com **Java & Android Studio**
 * 🧪 Testes de software e **QA**
-* 🥒 Automação de testes com **Cucumber & Gherkin**
 * 📮 Testes e validação de APIs com **Postman**
 * 🗄️ Modelagem e desenvolvimento de bancos de dados
 * ☁️ Conhecimentos em **AWS**
@@ -159,7 +146,6 @@ Estou sempre buscando evoluir tecnicamente por meio de projetos, estudos e exper
 
 * ☕ **Java & Spring Boot**
 * 🔌 **Desenvolvimento de APIs REST**
-* 🧪 **Testes automatizados com Cucumber & Gherkin**
 * ⚛️ **React & Next.js**
 * 🟦 **TypeScript**
 * 🐳 **Docker**
