@@ -1,168 +1,221 @@
-<div align="center">
+ <div align="center">
 
-
-<!-- ============ TYPING ANIMATION ============ -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%3E+INITIALIZING+PROFILE...+%5BOK%5D;%3E+LOADING+SEU_NOME.exe;%3E+FULL-STACK+DEVELOPER+%7C+AI+ENTHUSIAST;%3E+STATUS%3A+READY+FOR+NEW+MISSIONS" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=940&lines=SYSTEM+ONLINE...;INICIALIZANDO+PERFIL+DE+GABRIEL...;CARREGANDO+M%C3%93DULOS+DE+DESENVOLVIMENTO...;ACESSO+CONCEDIDO+%F0%9F%94%B4" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/VERSION-2.0.26-8a2be2?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CORE-ACTIVE-ff00c8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=220&section=header&text=GABRIEL%20ARAUJO%20//%20DEV&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Back-end%20%7C%20SENAI&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/FOCUS-BACK--END-000000?style=for-the-badge&logo=serverfault&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/EDUCATION-SENAI-000000?style=for-the-badge&logo=readthedocs&logoColor=FF0000"/>
+</p>
 
-<!-- ============ SOBRE MIM ============ -->
-##  SOBRE MIM
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Araujosp&style=for-the-badge&color=ff0000&label=VISITAS"/>
+</p>
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" />
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> SOBRE_MIM.exe
 
 ```yaml
-identidade:
-  nome: "Gabriel Araujo"
-  alias: "@araujoo.sp"
-  localizacao: "Brasil 🇧🇷"
-  ocupacao: "Tec. Desenvolvimento de Sistemas /Estagiando"
+> INICIANDO PROTOCOLO DE APRESENTAÇÃO...
 
-sistema:
-  linguagens_favoritas: ["JavaScript", "Php", "Java"]
-  interesses: ["Inteligência Artificial", "Automação", "Engenheiro de Software]
-diretiva_atual:
-  missao: "Fazer sempre o melhor que no que faço"
-  aprendendo: ["Next.js", "Java Script", "Node.js", "Docker"]
+USUARIO:       Gabriel Araujo
+FUNCAO:        Desenvolvedor de Software em formação
+FORMACAO:      Técnico em Desenvolvimento de Sistemas — SENAI
+FOCO:          Back-end | APIs REST | Desenvolvimento Web
+LINGUAGENS:    JavaScript | PHP | Java
+FRAMEWORKS:    Node.js | Express | React | Next.js
+BANCO_DE_DADOS: MySQL | PostgreSQL
+FERRAMENTAS:   Git | GitHub | Docker
+LOCALIZACAO:  Brasil 🇧🇷
+STATUS:        EM CONSTANTE EVOLUÇÃO
+
+> MISSAO: Desenvolver soluções úteis, construir sistemas
+> bem estruturados e evoluir a cada linha de código.
 ```
 
+Sou estudante de Desenvolvimento de Sistemas no SENAI e desenvolvedor em formação, com interesse em desenvolvimento back-end, APIs RESTful, bancos de dados e arquitetura de aplicações.
 
-💻 **Desenvolvedor de Software | Node.js, Java & Desenvolvimento Web**
+Tenho desenvolvido projetos práticos para consolidar meus conhecimentos em programação, integração entre front-end e back-end, modelagem de dados e organização de código.
 
-🇧🇷 Brasil
-
-Sou estudante de **Desenvolvimento de Sistemas** e desenvolvedor em formação, com foco em **desenvolvimento backend, APIs, aplicações web, mobile e testes de software**.
-
-Atualmente, venho desenvolvendo minhas habilidades com **Java, Spring Boot, JavaScript, TypeScript, React, Next.js e PHP**, além de conhecimentos em **bancos de dados, QA, automação de testes, Docker e AWS**.
-
-Estou sempre buscando evoluir tecnicamente por meio de projetos, estudos e experiências profissionais, com interesse em desenvolver soluções que resolvam problemas reais.
+Meu objetivo é evoluir como desenvolvedor de software, construir aplicações cada vez mais completas e aprofundar meus conhecimentos em tecnologias utilizadas no mercado.
 
 ---
 
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"/> TECH_STACK.sys
 
----
+<div align="center">
 
-## 🧠 O que faço
+### ⚡ Linguagens
 
-* ☕ Desenvolvimento backend com **Node.js  & Express ou Java & Spring Boot**
-* 🔌 Desenvolvimento e consumo de **APIs REST**
-* 🌐 Desenvolvimento web com **React, Next.js & TypeScript**
-* 📱 Desenvolvimento mobile com **Java & Android Studio**
-* 🧪 Testes de software e **QA**
-* 📮 Testes e validação de APIs com **Postman**
-* 🗄️ Modelagem e desenvolvimento de bancos de dados
-* ☁️ Conhecimentos em **AWS**
-* 🐳 Conhecimentos em **Docker**
-* 🔧 Versionamento e colaboração utilizando **Git, GitHub e GitLab**
+<img src="https://skillicons.dev/icons?i=js,php,java,html,css&theme=dark"/>
 
----
+### ⚡ Frameworks e bibliotecas
 
-## 🛠️ Tecnologias
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap&theme=dark"/>
 
-### 💻 Linguagens
+### ⚡ Banco de dados
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
 
----
+### ⚡ Ferramentas e infraestrutura
 
-### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux&theme=dark"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+</div>
 
----
-
-### ⚙️ Backend & APIs
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
----
-
-### 📱 Desenvolvimento Mobile
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
-
----
-
-### 🧪 QA & Testes
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-### 🗄️ Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
-
-### ☁️ Ferramentas & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats-araujo8.vercel.app/api?username=Araujosp&show_icons=true&theme=tokyonight&cache_seconds=1800"
-  />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF0000"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF0000"/>
 </p>
-   
-## 🚀 Atualmente estudando
-
-* ☕ **Java & Spring Boot**
-* 🔌 **Desenvolvimento de APIs REST**
-* ⚛️ **React & Next.js**
-* 🟦 **TypeScript**
-* 🐳 **Docker**
-* ☁️ **AWS**
-* 🗄️ **Banco de dados e modelagem**
-* 📱 **Desenvolvimento Android com Java**
 
 ---
 
-## 🎯 Objetivos
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"/> PROJETOS_EM_DESTAQUE
 
-Meu objetivo é me tornar um **desenvolvedor backend/full-stack**, evoluindo constantemente meus conhecimentos em **arquitetura de software, APIs, bancos de dados, testes e computação em nuvem**.
+<div align="center">
 
-Busco desenvolver projetos e soluções que me permitam aplicar meus conhecimentos na prática, adquirir experiência profissional e continuar evoluindo como desenvolvedor.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 ObraLog
+
+**Sistema de gerenciamento de entregas**
+
+Aplicação voltada à logística de materiais de construção, com cadastro de clientes e lojas, gerenciamento de entregas, aceite por motoristas e geração de comprovantes em PDF.
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+[![Repositório](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-000000?style=flat-square&logo=github&logoColor=FF0000)](https://github.com/Araujosp/ObraLog)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 FreitasBnb
+
+**Plataforma de hospedagem inspirada no Airbnb**
+
+Projeto full stack para praticar construção de interfaces com React, organização de componentes, navegação e integração com um back-end próprio.
+
+`React` `Vite` `Tailwind CSS` `Node.js` `Express`
+
+[![Repositório](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-000000?style=flat-square&logo=github&logoColor=FF0000)](https://github.com/Araujosp/FreitasBnb)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Syncron Automação
+
+**Sistema web para automação**
+
+Projeto desenvolvido com foco em back-end, autenticação, gerenciamento de dados e modelagem de banco de dados.
+
+`PHP` `MySQL` `PDO` `HTML` `CSS` `JavaScript`
+
+[![Repositório](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-000000?style=flat-square&logo=github&logoColor=FF0000)](https://github.com/Araujosp/Syncron-Automacao)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 TechNews
+
+**Portal de notícias de tecnologia**
+
+Aplicação de notícias para praticar desenvolvimento web, componentes reutilizáveis, consumo de APIs e operações de cadastro, edição, listagem e exclusão.
+
+`Next.js` `Bootstrap` `Express` `JavaScript`
+
+[![Repositório](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-000000?style=flat-square&logo=github&logoColor=FF0000)](https://github.com/Araujosp/TechNews)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-⭐ Se você gostou de algum dos meus projetos, considere deixar uma estrela no repositório!
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"/> OBJETIVOS_ATUAIS.log
 
-🤝 Sempre aberto a aprender, colaborar e desenvolver novos projetos.
+```bash
+gabriel@dev:~$ cat objetivos.log
+
+[ ] Aprofundar Node.js e desenvolvimento de APIs REST
+[ ] Evoluir em arquitetura back-end e organização MVC
+[ ] Desenvolver projetos com React e Next.js
+[ ] Consolidar Java, PHP e modelagem de bancos de dados
+[ ] Aprimorar Docker e ambientes de desenvolvimento
+[ ] Explorar AWS e computação em nuvem
+[ ] Construir um portfólio consistente de projetos reais
+[ ] Evoluir no inglês para oportunidades internacionais
+
+gabriel@dev:~$ echo "Em constante evolução..."
+> Em constante evolução..._█
+```
+
+---
+
+## <img src="https://media.giphy.com/media/xUOxfjsHRpN3lJxSne/giphy.gif" width="35"/> ESTATISTICAS_DO_SISTEMA
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Araujosp&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araujosp&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Araujosp&theme=radical&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="75%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Araujosp&theme=redical&hide_border=true&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FFFFFF&area=true" width="98%"/>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"/> CONEXOES.log
+
+<div align="center">
+
+<a href="https://github.com/Araujosp">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=150&section=footer&text=CONEX%C3%83O%20ENCERRADA%20//%20AT%C3%89%20O%20PR%C3%93XIMO%20COMMIT&fontSize=17&fontColor=FFFFFF&animation=fadeIn&fontAlignY=75" width="100%"/>
+
+**"Código é a linguagem que transforma ideias em realidade."**
+
+</div>
